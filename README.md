@@ -3,7 +3,8 @@
 ---
 
 ## Overview
-This documentation provides a comprehensive guide to the API endpoints for the VPN application backend. It includes details on user authentication, session management, referral handling, subscription management, reporting, server connections, and app updates.
+This documentation provides a comprehensive guide to the API endpoints for the VPN application backend. \
+It includes details on user authentication, session management, referral handling, subscription management, reporting, server connections, and app updates.
 
 ---
 
@@ -116,11 +117,13 @@ This documentation provides a comprehensive guide to the API endpoints for the V
 
 ---
 
-## Design Features
-- **Sidebar**: Quick access to all endpoints.
-- **Header**: Search bar in the center, with a dark/light mode toggle button.
-- **Theme**: macOS-like neon theme.
+## Further Implementations
+- **Idea**: These are all endpoints i was told to work on.
+- **Multi User**: If we allow one account to use multiple devices per subscription, we can allow or restrict to x devices.
+- **More**: Let me know what else we need in backend.
 
 ---
 
-This documentation is designed to be both practical and logical, providing a clear and concise guide to the backend API of the VPN application.
+This documentation is concept based on new VPN app requirements based recent discussion we had. \
+Further changes will be made here upon request.
+
